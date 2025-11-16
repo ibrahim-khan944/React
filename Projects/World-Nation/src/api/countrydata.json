@@ -1,0 +1,80 @@
+[
+    {
+    "id": 1,
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": "About 36 million",
+    "fact": "Saudi Arabia is home to Mecca and Medina, the two holiest cities in Islam."
+  },
+ 
+  {
+    "id": 2,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": "214 million",
+    "fact": "Brazil is home to the Amazon Rainforest, the largest rainforest on Earth."
+  },
+  {
+    "id": 3,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": "40 million",
+    "fact": "Canada has more lakes than the rest of the world's countries combined."
+  },
+  {
+    "id": 4,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": "112 million",
+    "fact": "Egypt is home to the Great Pyramid of Giza, the only surviving ancient wonder."
+  },
+  {
+    "id": 5,
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": "27 million",
+    "fact": "Australia has more kangaroos than people."
+  },
+  {
+    "id": 6,
+    "name": "India",
+    "capital": "New Delhi",
+    "population": "1.43 billion",
+    "fact": "India is the birthplace of both chess and yoga."
+  },
+  {
+    "id": 7,
+    "name": "France",
+    "capital": "Paris",
+    "population": "65 million",
+    "fact": "France is the most visited country in the world."
+  },
+  {
+    "id": 8,
+    "name": "South Africa",
+    "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+    "population": "61 million",
+    "fact": "South Africa is the only country with three capitals."
+  },
+  {
+    "id": 9,
+    "name": "China",
+    "capital": "Beijing",
+    "population": "1.41 billion",
+    "fact": "China’s Great Wall stretches over 21,000 km."
+  },
+  {
+    "id": 10,
+    "name": "Italy",
+    "capital": "Rome",
+    "population": "59 million",
+    "fact": "Rome’s Colosseum could hold around 50,000 spectators in ancient times."
+  },
+ {
+    "id": 11,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": "125 million",
+    "fact": "Japan has the world's oldest company, Kongo Gumi, founded in 578 AD."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "icon" : "MdPlace",
+    "title" : "find us", 
+    "details" : "Islamia Collge University, peshawar"
+  },
+  {
+    "icon" : "IoCallSharp",
+    "title" : "Call us",
+    "details" : "0345-4738944"
+  },
+  {
+    "icon" : "TbMailPlus",
+    "title" : "Mail us",
+    "details" : "muhammad4738944@gmail.com"
+  }
+]
