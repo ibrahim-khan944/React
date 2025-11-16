@@ -1,0 +1,23 @@
+.validation-input input{
+  padding: 10px;
+  font-size: 20px;
+}
+.error{
+  border: 1px solid red;
+}
+.error:focus{
+outline: 1px solid red;
+}  
+button{
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 8px;
+}
+.char{
+  color: red;
+  font-size: xx-large;
+}
+.done{
+  color: green;
+  font-size: xx-large;
+}

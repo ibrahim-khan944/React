@@ -1,0 +1,45 @@
+/* @import "tailwindcss"; */
+
+.apih1{
+  text-align: center;
+  background-color: rgb(170, 239, 116);
+  padding: 20px;
+}
+.apisetup{
+  display: flex;
+  justify-content: space-around;
+  font-size: x-large;
+  border: 1px solid #aaa;
+  margin: 0;
+  padding: 14px;
+  list-style: none;
+}
+.user-head{
+  font-size: 30px;
+  background-color: rgb(216, 251, 61);
+  font-weight: 800;
+}
+.link-style{
+  display: flex;
+  width: 400px;
+  justify-content: space-around;
+  list-style-type: none;
+  font-size: x-large;
+}
+.main-div{
+  text-align: center;
+}
+.main-div input{
+  padding: 10px;
+  font-size:large;
+}
+div button{
+  padding: 10px 20px;
+  font-size:x-large; 
+  background-color: rgb(0, 0, 0);
+  border: none;
+  color: white;
+  border-radius: 8px;
+  margin: 3px;
+}
+
